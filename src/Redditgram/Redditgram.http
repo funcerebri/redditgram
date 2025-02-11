@@ -1,0 +1,6 @@
+@Redditgram_HostAddress = http://localhost:5098
+
+GET {{Redditgram_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
